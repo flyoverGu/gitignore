@@ -26,6 +26,10 @@ build/Release
 # Dependency directory
 node_modules
 
+$ store folder specific metadata information on Mac
+.DS_Store
+
+
 # Optional npm cache directory
 .npm
 
